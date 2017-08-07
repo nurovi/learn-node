@@ -1,0 +1,23 @@
+{
+  "name": "learn-node",
+  "version": "0.1.0",
+  "description": "learning node",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurovi/learn-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nurovi/learn-node/issues"
+  },
+  "homepage": "https://github.com/nurovi/learn-node#readme"
+}
